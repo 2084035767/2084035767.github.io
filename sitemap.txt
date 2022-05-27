@@ -1,6 +1,4 @@
 https://2084035767.github.io/project/index.html
-https://2084035767.github.io/about/index.html
-https://2084035767.github.io/notion/index.html
 https://2084035767.github.io/archives/index.html
 https://2084035767.github.io/categories/index.html
 https://2084035767.github.io/2022/05/05/HTML5%E8%A1%A5%E5%85%85/
