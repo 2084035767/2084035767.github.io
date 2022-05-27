@@ -6,7 +6,7 @@
   <link href="https://2084035767.github.io/atom.xml" rel="self"/>
   
   <link href="https://2084035767.github.io/"/>
-  <updated>2022-05-10T00:47:38.592Z</updated>
+  <updated>2022-05-27T07:34:41.424Z</updated>
   <id>https://2084035767.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mysql入门</title>
+    <link href="https://2084035767.github.io/2022/05/27/mysql%E5%85%A5%E9%97%A8/"/>
+    <id>https://2084035767.github.io/2022/05/27/mysql%E5%85%A5%E9%97%A8/</id>
+    <published>2022-05-27T07:34:41.000Z</published>
+    <updated>2022-05-27T07:34:41.424Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>HTML5补充</title>
